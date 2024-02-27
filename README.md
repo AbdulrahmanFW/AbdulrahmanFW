@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Abdulrahman Alfowairs
 - 👀 I’m interested in Web development, Programming, and Artificial Intelligence.
 - 🌱 I’m currently learning HTML, CSS, JavaScript
-- 📫 How to reach me ...
 
 
 <!---
