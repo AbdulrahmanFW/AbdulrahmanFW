@@ -1,9 +1,26 @@
-- 👋 Hi, I’m Abdulrahman Alfowairs
-- 👀 I’m interested in Web development, Programming, and Artificial Intelligence.
-- 🌱 I’m currently learning HTML, CSS, JavaScript
+👋 Hi, I’m Abdulrahman Alfowairs
+
+🙆🏻‍♂️ About me
+
+  I'm Abdulrahman Alfowairs, a Computer Information System Student at IAU.
+
+👀  Interested in
+
+  - Web development
+  - Programming
+  - Software development
+
+👨🏻‍💻 Programming Languages
+
+  - C++
+  - Python
+  - Java
+  - SQL
+
+🌱 I’m currently learning 
+  - CS50x
+  - HTML
+  - CSS
+  - Java Script
 
 
-<!---
-AbdulrahmanFW/AbdulrahmanFW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
