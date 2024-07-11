@@ -16,11 +16,14 @@
   - Python
   - Java
   - SQL
-
-🌱 I’m currently learning 
-  - CS50x
   - HTML
   - CSS
   - Java Script
+  - PHP
+
+🌱 I’m currently learning 
+  - CS50x
+  - CS50 Pyhton
+
 
 
